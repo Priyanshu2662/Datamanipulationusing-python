@@ -11,6 +11,8 @@ def Main_menu():
     print("3. Data manipulation")
     print("x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x")
  
+
+ #This function is for arithmetic data operatioin.
 def arithmetic_data_operation():
     print("1.total of math score")
     print("2.total of writing score")
